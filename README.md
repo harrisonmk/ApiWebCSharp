@@ -1,5 +1,14 @@
 # ApiWebCSharp
 
+* Instalaçao de Pacotes
+
+  **dotnet tool install --global dotnet-ef**
+
+* Instalacao do entity FrameWork
+
+  **dotnet add package Microsift.EntityFrameworkCore.Design**
+  
+
 * criacao de migrations </b>
 
 
