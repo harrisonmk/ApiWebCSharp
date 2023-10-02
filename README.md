@@ -14,7 +14,7 @@
 * criacao de migrations </b>
 
 
-  **dotnet-ef migrations add nomeDaMigration**  <!-- dotnet-ef migrations add CriacaoTabelaTarefa -->
+  **dotnet-ef migrations add nomeDaMigration**        <!-- dotnet-ef migrations add CriacaoTabelaTarefa -->
 
 * Conexao com o banco de dados
  
