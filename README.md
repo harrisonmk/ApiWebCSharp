@@ -7,6 +7,8 @@
 * Instalacao do entity FrameWork
 
   **dotnet add package Microsift.EntityFrameworkCore.Design**
+
+    **dotnet add package Microsift.EntityFrameworkCore.SqlServer**
   
 
 * criacao de migrations </b>
